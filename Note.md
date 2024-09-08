@@ -13,6 +13,7 @@
 ### Skillableへの登録
 
 下記のリンクから演習環境へのアクセス準備を開始してください。
+
 [Preparation - 演習環境の使用開始](https://github.com/ctct-edu/Skillable/blob/main/Preparation.md)
 
 なお、本研修で使用するトレーニングキーは以下の通りです。
