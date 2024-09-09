@@ -58,3 +58,15 @@ https://learn.microsoft.com/ja-jp/training/courses/pl-300t00
 [Power BI とは?](https://learn.microsoft.com/ja-jp/power-bi/fundamentals/power-bi-overview)
 
 [Power BI サービス ビジネス ユーザー向けの基本的な概念](https://learn.microsoft.com/ja-jp/power-bi/consumer/end-user-basic-concepts)
+
+### Module02
+
+[Power BI Desktop のデータ ソース](https://learn.microsoft.com/ja-jp/power-bi/connect-data/desktop-data-sources)
+
+[ファイルから Power BI 用のデータを取得する](https://learn.microsoft.com/ja-jp/power-bi/connect-data/service-get-data-from-files)
+
+[Power BI Desktop でストレージ モードを管理する](https://learn.microsoft.com/ja-jp/power-bi/transform-model/desktop-storage-mode)
+
+[Power Query のクエリ評価とクエリ フォールディングの概要](https://learn.microsoft.com/ja-jp/power-query/query-folding-basics)
+
+### Module03
