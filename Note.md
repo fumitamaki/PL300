@@ -50,3 +50,11 @@
 ■Microsoft Learn - Power BI Data Analyst
 
 https://learn.microsoft.com/ja-jp/training/courses/pl-300t00
+
+
+
+### Module01
+
+[Power BI とは?](https://learn.microsoft.com/ja-jp/power-bi/fundamentals/power-bi-overview)
+
+[Power BI サービス ビジネス ユーザー向けの基本的な概念](https://learn.microsoft.com/ja-jp/power-bi/consumer/end-user-basic-concepts)
