@@ -70,3 +70,22 @@ https://learn.microsoft.com/ja-jp/training/courses/pl-300t00
 [Power Query のクエリ評価とクエリ フォールディングの概要](https://learn.microsoft.com/ja-jp/power-query/query-folding-basics)
 
 ### Module03
+
+[Power BI Desktop でのデータ型](https://learn.microsoft.com/ja-jp/power-bi/connect-data/desktop-data-types)
+
+※質問いただいたSharePointの取り込み内容からTagを取り除くための構文
+（ColumnNameを任意の列名に変更してカスタム列を作成）
+
+```Power Query M
+let
+startPos = Text.PositionOf([ColumnName], ">") + 1,
+endPos = Text.PositionOf([ColumnName], "</div>"),
+extractedText = Text.Middle([ColumnName],startPos, endPos - startPos)
+in
+extractedText
+```
+
+### Module04
+
+[Power BI Desktop でのモデル リレーションシップ](https://learn.microsoft.com/ja-jp/power-bi/transform-model/desktop-relationships-understand)
+
