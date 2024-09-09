@@ -47,3 +47,6 @@
 
 ## 補足情報（各種ドキュメントリンク）
 
+■Microsoft Learn - Power BI Data Analyst
+
+https://learn.microsoft.com/ja-jp/training/courses/pl-300t00
