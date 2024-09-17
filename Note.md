@@ -95,3 +95,21 @@ extractedText
 
 [Power BI Desktop でのモデル リレーションシップ](https://learn.microsoft.com/ja-jp/power-bi/transform-model/desktop-relationships-understand)
 
+### Module05
+
+[DAX 関数リファレンス](https://learn.microsoft.com/ja-jp/dax/dax-function-reference)
+
+CALENDARAUTO
+https://learn.microsoft.com/ja-jp/dax/calendarauto-function-dax
+MEDIAN
+https://learn.microsoft.com/ja-jp/dax/median-function-dax
+DISTINCTCOUNT
+https://learn.microsoft.com/ja-jp/dax/distinctcount-function-dax
+COUNTROWS
+https://learn.microsoft.com/ja-jp/dax/countrows-function-dax
+HASONEVALUE
+https://learn.microsoft.com/ja-jp/dax/hasonevalue-function-dax
+DIVIDE
+https://learn.microsoft.com/ja-jp/dax/divide-function-dax
+ISINSCOPE
+https://learn.microsoft.com/ja-jp/dax/isinscope-function-dax
