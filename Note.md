@@ -51,6 +51,10 @@
 
 https://learn.microsoft.com/ja-jp/training/courses/pl-300t00
 
+■Microsoft公式Github ラボ関連情報
+
+**[PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp)**
+
 
 
 ### Module01
