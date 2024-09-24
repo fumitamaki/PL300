@@ -214,8 +214,11 @@ https://jpbap-sqlbi.github.io/blog/powerbi/pbi_license/
 ### MTMアンケート
 
 https://www.metricsthatmatter.com/ctc10
+
 開催されている期間の講師名および日にちを選択してください。
+
 ※最終日にのみ表示されます。
+
 選択後、チェックボックスは全て「空欄」、メールアドレス欄も「空欄」のままご回答ください。
 
 
@@ -223,7 +226,9 @@ https://www.metricsthatmatter.com/ctc10
 CTCTアンケート
 
 Skill Check(Eden)アンケート
+
 https://eden.ac/login/ctct
+
 CTCTオリジナルアンケートという項目にご回答ください。
 
 ※パスワードは"abc123"で共通です
