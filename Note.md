@@ -97,6 +97,29 @@ in
 extractedText
 ```
 
+※質問いただいた単位を統一する構文（例ではメートルに統一）
+
+IFやSWITCHで条件に合致するかの判定と計算をさせる列を新たに構成しています
+
+```
+統一値 (Unified Value) = 
+    SWITCH(
+        TRUE(),
+        Table[単位] = "m", Table[数値],                   -- メートルはそのまま
+        Table[単位] = "cm", Table[数値] / 100,           -- センチメートルはメートルに変換
+        Table[単位] = "mm", Table[数値] / 1000,          -- ミリメートルはメートルに変換
+        Table[単位] = "km", Table[数値] * 1000,          -- キロメートルはメートルに変換
+        Table[単位] = "yd", Table[数値] * 0.9144,        -- ヤードはメートルに変換
+        Table[単位] = "ft", Table[数値] * 0.3048,        -- フィートはメートルに変換
+        Table[単位] = "in", Table[数値] * 0.0254,        -- インチはメートルに変換
+        Table[単位] = "mi", Table[数値] * 1609.34,       -- マイルはメートルに変換
+        BLANK()                                          -- 該当しない場合は空欄
+    )
+
+```
+
+
+
 ### Module04
 
 [Power BI Desktop でのモデル リレーションシップ](https://learn.microsoft.com/ja-jp/power-bi/transform-model/desktop-relationships-understand)
