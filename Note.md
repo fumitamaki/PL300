@@ -59,6 +59,12 @@ https://learn.microsoft.com/ja-jp/training/courses/pl-300t00
 
 https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/tree/main/Instructions/Labs
 
+■Power BI Desktopの言語変更について
+
+Power BI Desktopが英語で起動している場合は、[File] > [Options and settings] > [Options]の順に選択し、Optionsウィンドウで[GLOBAL]-[Regional Settings]に表示されるApplication languageとModel languageのドロップダウンリストからそれぞれ"Japanese(Japan)"を選択してアプリを再起動することで日本語に変更可能です。
+
+
+
 ### Module01
 
 [Power BI とは?](https://learn.microsoft.com/ja-jp/power-bi/fundamentals/power-bi-overview)
