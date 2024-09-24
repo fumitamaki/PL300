@@ -197,3 +197,14 @@ Power BI レポートでドリルスルーを設定する
 
 https://learn.microsoft.com/ja-jp/power-bi/create-reports/desktop-drillthrough
 
+### Module09
+
+Power BI サービスのデータセット更新手順について
+
+https://jpbap-sqlbi.github.io/blog/powerbi/pbi_refresh_settings/
+
+### Module10
+
+Power BI ライセンスの違い（Free・Pro・Premium Per User・Premium Per Capacity・Embedded・Fabric）
+
+https://jpbap-sqlbi.github.io/blog/powerbi/pbi_license/
