@@ -208,3 +208,13 @@ https://jpbap-sqlbi.github.io/blog/powerbi/pbi_refresh_settings/
 Power BI ライセンスの違い（Free・Pro・Premium Per User・Premium Per Capacity・Embedded・Fabric）
 
 https://jpbap-sqlbi.github.io/blog/powerbi/pbi_license/
+
+## 事後作業
+
+### MTMアンケート
+
+https://www.metricsthatmatter.com/ctc10
+開催されている期間の講師名および日にちを選択してください。
+※最終日にのみ表示されます。
+選択後、チェックボックスは全て「空欄」、メールアドレス欄も「空欄」のままご回答ください。
+
