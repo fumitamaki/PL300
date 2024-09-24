@@ -143,8 +143,34 @@ https://learn.microsoft.com/ja-jp/dax/networkdays-function-dax
 
 https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 
+### Module06
+
+変数を使用して DAX の数式を改善する
+
+https://learn.microsoft.com/ja-jp/dax/best-practices/dax-variables
+
+Power BI Desktop の DirectQuery
+
+https://learn.microsoft.com/ja-jp/power-bi/connect-data/desktop-use-directquery
+
 ### Module07
 
-■レポートでの書式設定に関するヒントとコツ
+Microsoft AppSource
+
+https://appsource.microsoft.com/ja-jp/marketplace/apps?product=power-bi-visuals
+
+レポートでの書式設定に関するヒントとコツ
 https://learn.microsoft.com/ja-jp/power-bi/visuals/service-tips-and-tricks-for-color-formatting?tabs=powerbi-desktop
+
+Power BI のレポート内でビジュアルがどのように相互作用するか
+
+https://learn.microsoft.com/ja-jp/power-bi/consumer/end-user-interactions
+
+ページ ナビゲーターとブックマーク ナビゲーターを作成する
+
+https://learn.microsoft.com/ja-jp/power-bi/create-reports/button-navigators?tabs=powerbi-desktop
+
+Power BI レポートでドリルスルーを設定する
+
+https://learn.microsoft.com/ja-jp/power-bi/create-reports/desktop-drillthrough
 
