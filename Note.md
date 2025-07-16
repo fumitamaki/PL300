@@ -8,15 +8,6 @@
 >
 >  パブリックなリポジトリとなるため、本ノートを保存（ダウンロード）していただくことが可能です
 
-## アカウント情報
-
-### Skillableへの登録
-
-下記のリンクから演習環境へのアクセス準備を開始してください。
-
-[Preparation - 演習環境の使用開始](https://github.com/ctct-edu/Skillable/blob/main/Preparation.md)
-
-
 ## 補足情報（各種ドキュメントリンク）
 
 ■Microsoft Learn - Power BI Data Analyst
@@ -180,49 +171,3 @@ https://jpbap-sqlbi.github.io/blog/powerbi/pbi_refresh_settings/
 Power BI ライセンスの違い（Free・Pro・Premium Per User・Premium Per Capacity・Embedded・Fabric）
 
 https://jpbap-sqlbi.github.io/blog/powerbi/pbi_license/
-
-## 事後作業
-
-### MTMアンケート
-
-https://www.metricsthatmatter.com/ctc10
-
-開催されている期間の講師名および日にちを選択してください。
-
-※最終日にのみ表示されます。
-
-選択後、チェックボックスは全て「空欄」、メールアドレス欄も「空欄」のままご回答ください。
-
-
-
-CTCTアンケート
-
-Skill Check(Eden)アンケート
-
-https://eden.ac/login/ctct
-
-CTCTオリジナルアンケートという項目にご回答ください。
-
-※パスワードは"abc123"で共通です
-
-| 連番          | ユーザーID |
-| ------------- | ---------- |
-| 中野（徳） 様 | TK241814   |
-| 中野（弘） 様 | TK241815   |
-| 大元 様       | TK241816   |
-| 下村 様       | TK241817   |
-| 小澤 様       | TK241818   |
-| 野本 様       | TK241819   |
-| 宮本 様       | TK241820   |
-| 國谷 様       | TK241821   |
-| 武冨 様       | TK241822   |
-| 甲斐 様       | TK241823   |
-| 上野 様       | TK241824   |
-| 笹井 様       | TK241825   |
-| 鍛 様         | TK241826   |
-| 稲葉 様       | TK241827   |
-| 今荘 様       | TK241828   |
-| ケイン 様     | TK241829   |
-| 江藤 様       | TK241830   |
-| 横山 様       | TK241831   |
-
