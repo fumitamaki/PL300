@@ -1,4 +1,4 @@
-# PL-300 Microsoft Power BI Data Analyst
+# Microsoft Power BI
 
 ## 概要
 
