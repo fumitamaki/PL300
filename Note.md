@@ -164,3 +164,38 @@ https://jpbap-sqlbi.github.io/blog/powerbi/pbi_refresh_settings/
 Power BI ライセンスの違い（Free・Pro・Premium Per User・Premium Per Capacity・Embedded・Fabric）
 
 https://jpbap-sqlbi.github.io/blog/powerbi/pbi_license/
+
+ 
+
+<details><summary>接続先情報</summary>
+    
+    ※不正利用防止のためURLを分割しています。共通項目の後にご自身の情報を繋げてURLとして入力してください
+    共通項目
+    https://bst-64746a40-aab3-4b12-abfb-1afb2482426a.bastion.azure.com/api/shareable-url/
+    個別項目
+    usui		48c2d2ea-562e-42cf-93c8-b52b53033b88
+    ou			73b768ea-c010-49c3-88bf-ab074f586b83
+    onoda		555d5f1c-1dfc-469b-839e-cb17da667af6
+    katsuma		3f5bcbc8-0c27-4085-8c5d-b779f6caf1ab
+    kanazawa	301255bc-2385-4ebc-810a-8fcd85736830
+    kamamasu	c0384c20-57d4-4faf-8361-51eef4dc5246
+    kinoshita	768e75a4-f66c-4cdf-af52-c3ca30e48a6a
+    kojima		ed0b7066-4c6a-4e99-bbe8-cd9fa0ef015d
+    saruwatari	76fda53f-7e72-4b09-a6c4-89e4426771c6
+    shibuya		15681145-0a13-47d7-afb3-e31c791eacb3
+    sugishima	658bc90a-8e31-4661-be93-61073880a45f
+    takano		44510f16-6868-4a72-8a4c-5fe9f097c0c9
+    takahashi	36602ade-1f0a-4ce8-acd7-0b2c876cce5f
+    taketomi	2a9dd2f8-7d21-486d-a187-530bdefd78ee
+    tanaka		ea5d22e1-aeec-4f7d-b99d-89fbbb004065
+    tamura		ec156481-9289-4761-bf4f-48c1bc92aab8
+    nishimura	030ea045-c4b9-414d-81ce-e4747a4ebf47
+    hiraishi	84012b99-6dbe-45e7-a358-421de6124cb9
+    hiranaka	fdffcba4-5a14-45db-be6a-910223e69e89
+    hirotaki	25947478-e3b4-455d-b7ce-bccd0a7ffe56
+    futatsugi	5f2cf4d8-9503-4f4c-ba7f-7e9cf1eb148d
+    hosoda		656f2c2e-95a8-4690-a0f0-06f5ff977a85
+    muneyuki	1ace1def-7bc2-4a55-bd88-44b9db35cf3c
+
+</details>
+
