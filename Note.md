@@ -28,13 +28,13 @@ Power BI Desktopが英語で起動している場合は、[File] > [Options and 
 
 
 
-### Module01
+■概要
 
 [Power BI とは?](https://learn.microsoft.com/ja-jp/power-bi/fundamentals/power-bi-overview)
 
 [Power BI サービス ビジネス ユーザー向けの基本的な概念](https://learn.microsoft.com/ja-jp/power-bi/consumer/end-user-basic-concepts)
 
-### Module02
+■データの取り込み
 
 [Power BI Desktop のデータ ソース](https://learn.microsoft.com/ja-jp/power-bi/connect-data/desktop-data-sources)
 
@@ -44,11 +44,11 @@ Power BI Desktopが英語で起動している場合は、[File] > [Options and 
 
 [Power Query のクエリ評価とクエリ フォールディングの概要](https://learn.microsoft.com/ja-jp/power-query/query-folding-basics)
 
-### Module03
+■データの加工
 
 [Power BI Desktop でのデータ型](https://learn.microsoft.com/ja-jp/power-bi/connect-data/desktop-data-types)
 
-※質問いただいたSharePointの取り込み内容からTagを取り除くための構文
+※SharePointの取り込み内容からTagを取り除くための構文
 （ColumnNameを任意の列名に変更してカスタム列を作成）
 
 ```Power Query M
@@ -60,7 +60,7 @@ in
 extractedText
 ```
 
-※質問いただいた単位を統一する構文（例ではメートルに統一）
+※単位を統一する構文（例ではメートルに統一）
 
 IFやSWITCHで条件に合致するかの判定と計算をさせる列を新たに構成しています
 
@@ -83,11 +83,9 @@ IFやSWITCHで条件に合致するかの判定と計算をさせる列を新た
 
 
 
-### Module04
+■データモデリング
 
 [Power BI Desktop でのモデル リレーションシップ](https://learn.microsoft.com/ja-jp/power-bi/transform-model/desktop-relationships-understand)
-
-### Module05
 
 [DAX 関数リファレンス](https://learn.microsoft.com/ja-jp/dax/dax-function-reference)
 
@@ -119,8 +117,6 @@ ISINSCOPE
 
 https://learn.microsoft.com/ja-jp/dax/isinscope-function-dax
 
-※質問いただいていた関数
-
 NETWORKDAYS（休日を外す（祝日非対応））
 
 https://learn.microsoft.com/ja-jp/dax/networkdays-function-dax
@@ -128,8 +124,6 @@ https://learn.microsoft.com/ja-jp/dax/networkdays-function-dax
 ※※日本の祝日は内閣府がCSVファイルにしてくれています。下記のリンクをソースとすることで祝日の日付を取り込むことが可能です
 
 https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
-
-### Module06
 
 変数を使用して DAX の数式を改善する
 
@@ -139,7 +133,7 @@ Power BI Desktop の DirectQuery
 
 https://learn.microsoft.com/ja-jp/power-bi/connect-data/desktop-use-directquery
 
-### Module07
+■ビジュアライズ
 
 Microsoft AppSource
 
@@ -160,13 +154,11 @@ Power BI レポートでドリルスルーを設定する
 
 https://learn.microsoft.com/ja-jp/power-bi/create-reports/desktop-drillthrough
 
-### Module09
+■Power BI Serviceとの連携
 
 Power BI サービスのデータセット更新手順について
 
 https://jpbap-sqlbi.github.io/blog/powerbi/pbi_refresh_settings/
-
-### Module10
 
 Power BI ライセンスの違い（Free・Pro・Premium Per User・Premium Per Capacity・Embedded・Fabric）
 
