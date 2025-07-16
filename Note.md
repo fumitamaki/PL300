@@ -140,6 +140,7 @@ Microsoft AppSource
 https://appsource.microsoft.com/ja-jp/marketplace/apps?product=power-bi-visuals
 
 レポートでの書式設定に関するヒントとコツ
+
 https://learn.microsoft.com/ja-jp/power-bi/visuals/service-tips-and-tricks-for-color-formatting?tabs=powerbi-desktop
 
 Power BI のレポート内でビジュアルがどのように相互作用するか
