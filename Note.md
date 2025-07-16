@@ -2,7 +2,7 @@
 
 ## 概要
 
-本ノートはPL-300 Microsoft Power BI Data Analystの研修にて各種情報共有で使用します。
+本ノートはMicrosoft Power BIの研修にて各種情報共有で使用します。
 
 > [!Note]
 >
