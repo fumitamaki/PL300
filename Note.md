@@ -161,6 +161,10 @@ https://learn.microsoft.com/ja-jp/power-bi/create-reports/desktop-drillthrough
 
 ■Power BI Serviceとの連携
 
+Power BI Desktop とPower BI サービスの違い：Power BIでレポート作成・分析を行うために必要なものは？
+
+[https://jpbap-sqlbi.github.io/blog/powerbi/pbi_desktop_service/](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_desktop_service/)
+
 Power BI サービスのデータセット更新手順について
 
 https://jpbap-sqlbi.github.io/blog/powerbi/pbi_refresh_settings/
