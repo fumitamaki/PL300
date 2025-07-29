@@ -177,7 +177,9 @@ https://jpbap-sqlbi.github.io/blog/powerbi/pbi_license/
 
 https://pbifb.blob.core.windows.net/container/PBILicense_20250729.pdf
 
- 
+ ※演習用ファイル群
+
+[https://pbifb.blob.core.windows.net/container/LabSamples.zip](https://pbifb.blob.core.windows.net/container/LabSamples.zip)
 
 <details><summary>接続先情報</summary>
 
