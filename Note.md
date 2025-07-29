@@ -171,7 +171,7 @@ https://jpbap-sqlbi.github.io/blog/powerbi/pbi_license/
 
     ※不正利用防止のためURLを分割しています。共通項目の後にご自身の情報を繋げてURLとして入力してください
     Power BI入門 演習手順
-    [https://github.com/ctct-edu/Power-BI-for-beginners/tree/main/LabManual](https://github.com/ctct-edu/Power-BI-for-beginners/tree/main/LabManual)
+    <a href="https://github.com/ctct-edu/Power-BI-for-beginners/tree/main/LabManual">https://github.com/ctct-edu/Power-BI-for-beginners/tree/main/LabManual</a>
     共通項目
     https://bst-64746a40-aab3-4b12-abfb-1afb2482426a.bastion.azure.com/api/shareable-url/
     個別項目
