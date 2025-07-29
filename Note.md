@@ -135,6 +135,10 @@ https://learn.microsoft.com/ja-jp/power-bi/connect-data/desktop-use-directquery
 
 ■ビジュアライズ
 
+Power BI での視覚化の種類
+
+[https://learn.microsoft.com/ja-jp/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a](https://learn.microsoft.com/ja-jp/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a)
+
 Microsoft AppSource
 
 https://appsource.microsoft.com/ja-jp/marketplace/apps?product=power-bi-visuals
