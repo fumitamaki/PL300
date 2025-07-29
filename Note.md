@@ -165,6 +165,10 @@ Power BI ライセンスの違い（Free・Pro・Premium Per User・Premium Per 
 
 https://jpbap-sqlbi.github.io/blog/powerbi/pbi_license/
 
+※参考資料
+
+https://pbifb.blob.core.windows.net/container/PBILicense_20250729.pdf
+
  
 
 <details><summary>接続先情報</summary>
