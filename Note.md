@@ -174,7 +174,7 @@ https://jpbap-sqlbi.github.io/blog/powerbi/pbi_license/
     https://bst-64746a40-aab3-4b12-abfb-1afb2482426a.bastion.azure.com/api/shareable-url/
     個別項目
     usui		48c2d2ea-562e-42cf-93c8-b52b53033b88
-    ou			73b768ea-c010-49c3-88bf-ab074f586b83
+    ou		73b768ea-c010-49c3-88bf-ab074f586b83
     onoda		555d5f1c-1dfc-469b-839e-cb17da667af6
     katsuma		3f5bcbc8-0c27-4085-8c5d-b779f6caf1ab
     kanazawa	301255bc-2385-4ebc-810a-8fcd85736830
